@@ -1,6 +1,7 @@
 # /**/*.iml
 /target
 /.idea
+.idea
 
 # Created by http://www.gitignore.io
 
@@ -59,3 +60,4 @@ build
 npm-debug.log
 
 temp
+
